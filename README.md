@@ -8,8 +8,7 @@ higher hold the key [↑]. Use Shift to sprint. Rule:
 hit in Big State, he will shrink to normal size. 4. If Mario jumps on Goomba, Goomba will die.
 
 # Preview
-![Untitled](https://github.com/YueTianxin611/SuperMarioBro1985-On-PC/assets/114773396/44f840e5-cb85-4d7a-b7c9-619e414edef9 | width=200)
-
+![Untitled](https://github.com/YueTianxin611/SuperMarioBro1985-On-PC/assets/114773396/44f840e5-cb85-4d7a-b7c9-619e414edef9 | width=200 height=100)
 
 # Clone & Build this repository
 This repository hosts the software of the attemp to remake Super Mario Bros. This repository supports building on Windows, MacOS, Linux.
