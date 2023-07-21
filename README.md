@@ -1,3 +1,16 @@
+# Instructions
+Instructions:
+Use arrows keys [↑→ ←] to control Mario move left, right or jump. To jump
+higher hold the key [↑]. Use Shift to sprint. Rule:
+1. If Mario hit mushroom, he will grow bigger.
+2. If Mario hit star, he will have the ability to tackle goomba.
+3. If Mario is hit by goomba, he will die unless he is in the Big State. If he is
+hit in Big State, he will shrink to normal size. 4. If Mario jumps on Goomba, Goomba will die.
+
+# Preview
+![Untitled](https://github.com/YueTianxin611/SuperMarioBro1985-On-PC/assets/114773396/44f840e5-cb85-4d7a-b7c9-619e414edef9)
+
+
 # Clone & Build this repository
 This repository hosts the software of the attemp to remake Super Mario Bros. This repository supports building on Windows, MacOS, Linux.
 
