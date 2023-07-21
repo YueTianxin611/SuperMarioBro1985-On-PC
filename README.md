@@ -3,7 +3,7 @@ This repository hosts the software of the attemp to remake Super Mario Bros. Thi
 
 ## Clone this repository
 open a teriminal in the location where you want to clone this repository and run 
-`git clone https://ramennoodle.me.cmu.edu/Bonobo.Git.Server/ArcadeAvenger.git`
+`git clone https://github.com/YueTianxin611/SuperMarioBro1985-On-PC.git`
 
 ## Build this repository
 Before building, make sure you have CMake installed, and the minimum version should be 3.8.
